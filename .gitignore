@@ -1,0 +1,9 @@
+config.txt
+
+cara agar tidak ikut bila dipush folder
+
+data/
+
+cara agar tidak ikut di push exe mp4 dll 
+
+*.exe 
